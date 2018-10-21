@@ -1,0 +1,10 @@
+{
+  "realm": "PhotoAlbum",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "photo-album-client",
+  "credentials": {
+    "secret": "2f0af459-b4c4-4696-8037-47ba4360d9ef"
+  },
+  "confidential-port": 0
+}
